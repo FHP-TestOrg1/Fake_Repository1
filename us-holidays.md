@@ -5,7 +5,7 @@ permalink: /community/us-holidays/
 header:
   overlay_color: "#137bce"
 ---
-## 2017
+## 2018
 
 Date          | Holiday
 ---           | ---
