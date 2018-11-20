@@ -1,4 +1,4 @@
-#This is one a test markdown file.
+#This is a test markdown file.
 ##Building Your First Taxonomy for Classification of Software Documentation
 ###Workshop at TCWORLD - 2018
 
